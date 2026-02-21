@@ -1,2 +1,2 @@
 # Cash-I
-A smart real-time system that scans, identifies and verifies Indian currency instantly.
+A Computer Vision–Based System for Real-Time Detection and Identification of Indian Currency Notes and Coins.
